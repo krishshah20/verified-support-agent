@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-06-27T00:59:30.671154",
+  "metrics": {
+    "total_questions": 10,
+    "avg_accuracy": 0.4731519341375966,
+    "median_accuracy": 0.47150532530273126,
+    "min_accuracy": 0.24487222990407417,
+    "max_accuracy": 0.6173112323252004,
+    "escalation_rate": 1.0,
+    "avg_citations_per_answer": 2.3,
+    "avg_citation_confidence": 0.7703798353439913,
+    "questions_with_citations": 10
+  }
+}
