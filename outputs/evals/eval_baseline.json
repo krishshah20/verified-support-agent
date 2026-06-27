@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-06-27T00:59:30.671154",
+  "timestamp": "2026-06-27T11:00:07.032116",
   "metrics": {
     "total_questions": 10,
-    "avg_accuracy": 0.4731519341375966,
-    "median_accuracy": 0.47150532530273126,
-    "min_accuracy": 0.24487222990407417,
-    "max_accuracy": 0.6173112323252004,
-    "escalation_rate": 1.0,
-    "avg_citations_per_answer": 2.3,
-    "avg_citation_confidence": 0.7703798353439913,
+    "avg_accuracy": 0.7853758960918136,
+    "median_accuracy": 0.850633591012034,
+    "min_accuracy": 0.4480563603396861,
+    "max_accuracy": 0.9010634335350984,
+    "escalation_rate": 0.0,
+    "avg_citations_per_answer": 2.2,
+    "avg_citation_confidence": 0.6884397402295341,
     "questions_with_citations": 10
   }
 }
